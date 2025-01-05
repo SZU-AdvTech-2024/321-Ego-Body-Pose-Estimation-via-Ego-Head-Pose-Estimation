@@ -1,0 +1,8 @@
+@inproceedings{REPO321,
+    author = "Li, Jiaman and Liu, Karen and Wu, Jiajun",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    month = "June",
+    pages = "17142-17151",
+    title = "{Ego-Body Pose Estimation via Ego-Head Pose Estimation}",
+    year = "2023"
+}
